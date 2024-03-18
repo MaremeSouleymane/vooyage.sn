@@ -1,0 +1,138 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0%;
+    margin: 0%;
+    background-image: url(TOURISME.jpg); 
+    background-attachment: fixed;
+    background-size: cover;
+    font-weight: 900;
+}
+h1{
+
+    font-size:50px;
+    font-family:cursive;
+    font-weight: bold;
+    color: black;
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: center; 
+}
+ li {
+     
+      margin:0;
+      list-style-type: none;
+      display: inline-block;
+      padding: 10px 20px;
+      margin-left: 20px;
+
+}
+.toux{
+    display: flex;
+    text-align: left;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+
+}
+li a{
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    padding-left: 20px;
+margin: 20px;
+    }
+    .menu{
+        background-color: #87CEEB;
+        font-family: Arial, Helvetica, sans-serif;
+        justify-content: space-around;
+        display: flex;
+        block-size: auto;
+        font-size: 40px;
+        
+
+    
+    }
+    .bi{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: larger;
+        text-transform: capitalize;
+        color: black;
+    }
+.vie{
+background-color: white;
+margin-left: 20px;
+font-size: large;
+color: black;
+font-style: normal;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.mat{
+    padding-top: 20px;
+    margin-left:10px;
+    padding-right: 800px;  
+    text-align: center; 
+    font-weight: 900;
+    font-size: 60px;
+}
+.back{
+    margin-left: 20px;
+    font-size: larger;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background-color: white;
+    
+}
+.vid{
+    text-align: center;
+    padding-left: 140px;
+    width: 100px;
+}
+.mec{
+    color: black;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.acu{
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+    justify-items: auto; 
+    padding:500px;
+
+}
+.box{
+    border-radius: 15px;
+    display: inline;
+    padding: center;
+    margin-left: 10px;
+    display: flex;
+ }
+    p{margin: 10px;
+    }
+    .net{
+    
+        text-transform: capitalize;
+        padding-left: 400px;
+        margin-left: 500px;
+        font-size: 2rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 900;
+    }
+    img{
+        transition: transform 0.5s ease ;
+    }
+  img:hover{transform: scale(1.1);
+
+    }
+    .bit{
+        border-radius: 15px;
+        padding-left: 15px;
+    }
+    .pin{
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        text-transform: capitalize;
+        color: #30343d;
+    }
+    
